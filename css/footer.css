@@ -1,0 +1,148 @@
+.footer{
+    width: 1899px;
+    height: 611px;
+    background-color: #252525;
+    position: relative;
+    bottom: 580px;
+}
+
+.footer-1{
+    width: 1899px;
+    height: 350px;
+}
+
+.footer-1-1{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 300px;
+    top: -70px;
+}
+
+.salecall{
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.phonenumber{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.footer-1-1-list ul li{
+    padding-top: 10px;
+}
+
+.footer-1-1-list a{
+    font-size: 12px;
+    color: #9B9EA0;
+}
+
+.footer-1-1-list a:hover{
+    color: #FF6A00;
+}
+
+.footer-1-2{
+    width: 1270px;
+    border-left: #888686 solid 1px;
+    position: relative;
+    left: 300px;
+    top: 25px;
+}
+
+.footer-1-2-list{
+    position: relative;
+    left: 100px;
+    margin-right: 100px;
+}
+
+.footer-1-2-list ul li:nth-child(1){
+    padding-bottom: 20px;
+    color: #e7ebee;
+}
+
+.footer-1-2-list ul li{
+    padding-top: 5px;
+}
+
+.footer-1-2-list a{
+    font-size: 14px;
+    color: #9B9EA0;
+}
+
+.footer-1-2-list a:hover{
+    color: #FF6A00;
+}
+
+.footer-1-2-list:nth-child(5){
+    position: relative;
+    top: -105px;
+}
+
+.footer-2{
+    width: 1440px;
+    height: 131px;
+    position: relative;
+    left: 300px;
+    border-top: solid 1px #888686;
+    border-bottom: solid 1px #888686;
+    padding-top: 5px;
+}
+
+.hot li{  
+    color: #e7ebee;
+    font: bold;
+    padding-top: 8px;
+    font-size: 14px
+}
+
+.footer-2-1-list ul{
+    position: relative;
+    margin-left: 50px;
+}
+
+
+.footer-2-1-list ul li a{
+    color: #9B9EA0;
+    font-size: 12px;
+}
+
+.footer-2-1-list ul li a:hover{
+    color: #FF6A00;
+}
+
+.footer-3{
+    width: 1899px;
+    height: 123px;
+}
+
+.footer-3-content{
+    width: 1440px;
+    position: relative;
+    left: 300px;
+}
+
+.footer-3-content-head a{
+    font-size: 16px;
+    color: #9B9EA0;
+    margin-right: 20px;
+}
+
+.footer-3-content-head a:hover{
+    color: #FF6A00;
+}
+
+.footer-3-content-head1 a{
+    font-size: 14px;
+    color: #9B9EA0;
+    margin-right: 15px;
+}
+
+.footer-3-content-head1 a:hover{
+    color: #FF6A00;
+}
+
+.footer-3-content img{
+    width: 16px;
+    height: 16px;
+}
